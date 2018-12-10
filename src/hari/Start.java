@@ -6,6 +6,6 @@ public class Start {
 
 	@Test
 	public void start() {
-		System.out.println("started welcome to TestNG");
+		System.out.println("started welcome to TestNG.....");
 	}
 }
